@@ -1,0 +1,31 @@
+# 🚀 Unity Course – Project 2: RocketBoost
+
+This project is part of my Unity game development journey.
+RocketBoost focuses on improving my understanding of C# scripting, physics, and interactive systems in Unity.
+
+## 🎮 Project Overview
+
+RocketBoost is a physics-based rocket navigation game where the player must control thrust and rotation to reach the finish platform while avoiding obstacles.
+
+---
+
+## 🧠 Concepts Covered
+
+This project focuses on:
+
+* Classes and namespaces
+* Unity Input Actions
+* Switch statements
+* Triggering audio
+* Triggering particle effects
+* Adding and controlling lights
+* Using physics forces (Rigidbody)
+* Collision handling
+* Scene management
+
+---
+
+## 🚀 Status
+
+In Progress
+
